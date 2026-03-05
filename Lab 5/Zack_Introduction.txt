@@ -1,0 +1,6 @@
+Hello, my name is Zack Lee.
+I am a computer science student at Central Washington University,
+and I am currently taking CS 470: Operating Systems.
+This project helps me understand file handling in C.
+I am excited to learn more about operating systems and how they manage files.
+Thank you for reading my introduction!
